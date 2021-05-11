@@ -9,7 +9,8 @@ ___
 [[Facebook]](https://facebook.com/earth4723)
 [[Instagram]](https://instagram.com/earth4723oficial)
 [[Twitter]](https://twitter.com/EARTH4723)
-[[Youtube]](https://https://www.youtube.com/channel/UCeWcOMtKdGn8toLxm1Cse3w)
+[[Youtube]](https://www.youtube.com/channel/UCeWcOMtKdGn8toLxm1Cse3w)
+
 ___
 
 MAIN CONTACTS:
