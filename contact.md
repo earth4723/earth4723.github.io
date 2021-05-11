@@ -1,14 +1,36 @@
-## [Home](/index) / [About Us](/about_us) / [Research](/research) / [News](/news) / Contact
+## [Home](/index) / [Brief CV](/brief_cv) / [Research](/research) / [News](/news) / Contact
 ___
+# EARTH 4723
 
-## ABRAHAM ELIZALDE HERNÁNDEZ
-AKA [**BRAHAM ELIZALDE**] & [**BRRRAHAM**]
+##### PUEBLA, PUE. MÉXICO
 
-**Email:** [`elizalde.abraham@outlook.com`](mailto:elizalde.abraham@outlook.com?subject=%20Hello,%20Braham) or [`earth4723puebla@gmail.com`](mailto:earth4723puebla@gmail.com?subject=%20Hello,%20Braham)
-
+**Email:** [`earth4723puebla@gmail.com`](mailto:earth4723puebla@gmail.com?subject=%20HOLA,%20MUNDO)
 
 [[Facebook]](https://facebook.com/earth4723)
 [[Instagram]](https://instagram.com/earth4723oficial)
 [[Twitter]](https://twitter.com/EARTH4723)
 [[Youtube]](https://https://www.youtube.com/channel/UCeWcOMtKdGn8toLxm1Cse3w)
+___
+
+MAIN CONTACTS:
+
+## FRANCISCO LÓPEZ TIRO
+#### 1st LEAD COACH
+**Email:** [`elizalde.abraham@outlook.com`](mailto:elizalde.abraham@outlook.com?subject=%20Hello,%20Braham)
+
+---
+
+## ABRAHAM ELIZALDE HERNÁNDEZ
+### 2nd LEAD COACH
+AKA [**BRAHAM ELIZALDE**] & [**BRRRAHAM**]
+
+**Email:** [`elizalde.abraham@outlook.com`](mailto:elizalde.abraham@outlook.com?subject=%20Hello,%20Braham)
+
+---
+
+## RAÚL SANTIAGO VIDAL
+### TEAM ADMINISTRATOR
+
+**Email:** [`elizalde.abraham@outlook.com`](mailto:elizalde.abraham@outlook.com?subject=%20Hello,%20Braham)
+
 ---
