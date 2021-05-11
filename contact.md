@@ -1,4 +1,4 @@
-## [Home](/index) / [Brief CV](/brief_cv) / [Research](/research) / [News](/news) / Contact
+## [Home](/index) / [About Us](/about_us) / [News](/news) / Contact
 ___
 # EARTH 4723
 
