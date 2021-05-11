@@ -1,10 +1,9 @@
 ## [Home](/index) / [About Us](/about_us) / [News](/news) / Contact
 ___
+
 # EARTH 4723
-
-##### PUEBLA, PUE. MÉXICO
-
-**Email:** [`earth4723puebla@gmail.com`](mailto:earth4723puebla@gmail.com?subject=%20HOLA,%20MUNDO)
+## PUEBLA, PUE. MÉXICO
+#### **Email:** [`earth4723puebla@gmail.com`](mailto:earth4723puebla@gmail.com?subject=%20Hola%20mundo)
 
 [[Facebook]](https://facebook.com/earth4723)
 [[Instagram]](https://instagram.com/earth4723oficial)
@@ -13,25 +12,23 @@ ___
 
 ___
 
-MAIN CONTACTS:
+###### MAIN CONTACTS:
+---
 
-## FRANCISCO LÓPEZ TIRO
-#### 1st LEAD COACH
-**Email:** [`elizalde.abraham@outlook.com`](mailto:elizalde.abraham@outlook.com?subject=%20Hello,%20Braham)
+#### FRANCISCO LÓPEZ TIRO
+##### LEAD COACH
+##### **Email:** [`franciscolt@tecmilenio.mx`](mailto:franciscolt@tecmilenio.mx?subject=%20Hola%20Francisco)
 
 ---
 
-## ABRAHAM ELIZALDE HERNÁNDEZ
-### 2nd LEAD COACH
-AKA [**BRAHAM ELIZALDE**] & [**BRRRAHAM**]
-
-**Email:** [`elizalde.abraham@outlook.com`](mailto:elizalde.abraham@outlook.com?subject=%20Hello,%20Braham)
+#### ABRAHAM ELIZALDE HERNÁNDEZ
+##### LEAD COACH 2
+##### **Email:** [`al02646724@tecmilenio.mx`](mailto:al02646724@tecmilenio.mx?subject=%20Hola%20Braham)
 
 ---
 
-## RAÚL SANTIAGO VIDAL
-### TEAM ADMINISTRATOR
-
-**Email:** [`elizalde.abraham@outlook.com`](mailto:elizalde.abraham@outlook.com?subject=%20Hello,%20Braham)
+#### RAÚL SANTIAGO VIDAL
+##### TEAM ADMINISTRATOR
+##### **Email:** [`r.santiago@tecmilenio.mx`](mailto:r.santiago@tecmilenio.mx?subject=%20Hola%20Raúl)
 
 ---
