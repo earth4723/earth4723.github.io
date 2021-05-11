@@ -4,7 +4,7 @@
 
 ## About EARTH
 
-
+### ¡Hola, nosotros somos EARTH 4723! Somos un grupo de jovenes que se dedica a la difusión de la ciencia y la tecnología con bases ecologicas
 ---
 
 
