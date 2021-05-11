@@ -1,4 +1,4 @@
-## Home / [Brief CV](/brief_cv) / [Research](/research) / [News](/news) / [Contact](/contact)
+## Home / [Brief CV](/brief_cv) / [News](/news) / [Contact](/contact)
 
 ---
 
