@@ -1,5 +1,5 @@
 
-## [Home](/index) / [Brief CV](/brief_cv) / Research / [News](/news) / [Contact](/contact)
+## [Home](/index) / [About Us](/about_us) / Research / [News](/news) / [Contact](/contact)
 ___
 
 
