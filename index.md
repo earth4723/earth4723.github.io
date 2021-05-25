@@ -1,4 +1,4 @@
-## Home / [About Us](/about_us) / [News](/news) / [Contact](/contact)
+## Home / [About Us](/about_us) / [Sponsors](/sponsors) / [News](/news) / [Contact](/contact)
 
 ---
 
