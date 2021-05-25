@@ -1,5 +1,5 @@
 
-## [Home](/index) / About Us / [News](/news) / [Contact](/contact)
+## [Home](/index) / About Us / [Sponsors](/sponsors) [News](/news) / [Contact](/contact)
 ___
 
 ## Education
