@@ -1,4 +1,4 @@
-## [Home](/index) / [About Us](/about_us) / [News](/news) / Contact
+## [Home](/index) / [About Us](/about_us) / [Sponsors](/sponsors) / [News](/news) / Contact
 ___
 
 # EARTH 4723
