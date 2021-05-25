@@ -1,5 +1,5 @@
 
-## [Home](/index) / [About Us](/about_us) / Research / [News](/news) / [Contact](/contact)
+## [Home](/index) / [About Us](/about_us) / Sponsors / [News](/news) / [Contact](/contact)
 ___
 
 
