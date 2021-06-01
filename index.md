@@ -2,7 +2,7 @@
 
 ---
 
-## About EARTH :earth_americas:
+## About EARTH 
 
 ### ¡Hola, nosotros somos EARTH 4723! Somos un grupo de jovenes que se dedica a la difusión de la ciencia y la tecnología con bases ecologicas
 ### Somos un equipo de la [Universidad Tecmilenio](http://tecmilenio.mx)
