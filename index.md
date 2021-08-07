@@ -18,9 +18,11 @@
 ## Miembros de el equipo 
 
 ### El equipo Earth 4723 está conformado por 34 participantes activos 
-### Nuestro coach es Francisco Javier Lopez-Tiro
-### Nuestro ByDE y administrador, Raúl Santiago Vidal
-### Nuestro capitán, Emiliano Ixmatlahua Valadez
+### Nuestro coach: Francisco Javier Lopez-Tiro
+### Nuestro ByDE y administrador: Raúl Santiago Vidal
+### Nuestro capitán: Emiliano Ixmatlahua Valadez
+
+---
 
 
 ## Updates
