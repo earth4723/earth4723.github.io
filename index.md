@@ -11,6 +11,9 @@
 
 ## FIRST
 
+![image](https://user-images.githubusercontent.com/83673358/128615139-0984e042-6f55-4966-a905-c6b2a0b84edc.png)
+
+
 ### Actualmente participamos en [FIRST Robotics Competition](https://www.firstinspires.org/robotics/frc/what-is-first-robotics-competition) desde el año 2014, en el cual debemos recaudar fondos, trabajar en equipo construir y programar robots de tamaño industrial para jugar un juego de campo difícil contra competidores de ideas afines. Llevamos en total 8 temporadas compitiendo!
 
 ---
