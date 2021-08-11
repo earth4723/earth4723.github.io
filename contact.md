@@ -37,7 +37,7 @@ ___
 ---
 
 #### MORE ABOUT ROBOTS:
-Visit [[FIRST]](https://www.firstinspires.org/)
+Visit <a href="https://www.firstinspires.org/" target="_blank">[FIRST]
 
   <img src="https://user-images.githubusercontent.com/83673358/128615139-0984e042-6f55-4966-a905-c6b2a0b84edc.png" width="250">
 
