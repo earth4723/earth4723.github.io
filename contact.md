@@ -5,12 +5,10 @@ ___
 ## PUEBLA, PUE. MÉXICO
 #### **Email:** [`earth4723puebla@gmail.com`](mailto:earth4723puebla@gmail.com?subject=%20Hola%20mundo)
 
-[[Facebook]](https://facebook.com/earth4723)
 <a href="https://facebook.com/earth4723/" target="_blank">[Facebook]
-[[Instagram]](https://instagram.com/earth4723oficial)
-[[Twitter]](https://twitter.com/EARTH4723)
-[[Youtube]](https://www.youtube.com/channel/UCeWcOMtKdGn8toLxm1Cse3w)
-
+<a href="https://instagram.com/earth4723oficial/" target="_blank">[Instagram]
+<a href="https://twitter.com/EARTH4723/" target="_blank">[Twitter]
+<a href="https://www.youtube.com/channel/UCeWcOMtKdGn8toLxm1Cse3w/" target="_blank">[Youtube]
 ___
 
 ##### MAIN CONTACTS:
