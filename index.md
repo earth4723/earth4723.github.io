@@ -2,11 +2,11 @@
 
 ---
 
-## About EARTH 
+## EARTH 4723
 
-### ¡Hola, nosotros somos EARTH 4723 que por sus siglas en inglés, significa Ecologic and Advanced Robotics Technologies for hummanity!.
-### Somos un grupo de jovenes que se dedica a la difusión de la ciencia y la tecnología con bases ecologicas
-### Somos un equipo de la [Universidad Tecmilenio](http://tecmilenio.mx)
+### Hello, we are EARTH 4723 which stands for Ecologic and Advanced Robotics Technologies for hummanity!
+### We are a group of young people dedicated to the dissemination of science and technology with ecological bases.
+### We are a team of [Tecmilenio University](http://tecmilenio.mx)
 ---
 
 ![image](https://user-images.githubusercontent.com/83673358/128615139-0984e042-6f55-4966-a905-c6b2a0b84edc.png)
@@ -14,16 +14,17 @@
 ## FIRST
 
 
-### Actualmente participamos en [FIRST Robotics Competition](https://www.firstinspires.org/robotics/frc/what-is-first-robotics-competition) desde el año 2014, en el cual debemos recaudar fondos, trabajar en equipo construir y programar un robot de tamaño industrial para jugar un juego de campo difícil contra competidores de ideas afines. Llevamos en total 9 temporadas compitiendo!
+### We currently participate in [FIRST Robotics Competition](https://www.firstinspires.org/robotics/frc/what-is-first-robotics-competition) since 2014, in which we must fundraise, work as a team build and program an industrial sized robot to play a challenging field game against like-minded competitors. 
+### We have been competing for a total of 9 seasons now!
 
 ---
 
-## Miembros del equipo 
+## Team Members
 
-### El equipo Earth 4723 está conformado por 38 [participantes](/participantes) activos 
-### Nuestros coaches: Rodrigo Marquez, Felipe Gonzalez
-### Nuestro coordinador VIVE y administrador: Raúl Santiago Vidal
-### Nuestra capitana: Shirel Marino Ramirez
+### The team is made up of 38 active participants
+### 2 Coaches: Rodrigo Marquez, Felipe Gonzalez
+### Our VIVE and team administrator: Raúl Santiago Vidal
+### Our Captain: Shirel Marino Ramirez
 
 ---
 
