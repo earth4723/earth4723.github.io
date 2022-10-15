@@ -14,16 +14,16 @@
 ## FIRST
 
 
-### Actualmente participamos en [FIRST Robotics Competition](https://www.firstinspires.org/robotics/frc/what-is-first-robotics-competition) desde el año 2014, en el cual debemos recaudar fondos, trabajar en equipo construir y programar robots de tamaño industrial para jugar un juego de campo difícil contra competidores de ideas afines. Llevamos en total 8 temporadas compitiendo!
+### Actualmente participamos en [FIRST Robotics Competition](https://www.firstinspires.org/robotics/frc/what-is-first-robotics-competition) desde el año 2014, en el cual debemos recaudar fondos, trabajar en equipo construir y programar un robot de tamaño industrial para jugar un juego de campo difícil contra competidores de ideas afines. Llevamos en total 9 temporadas compitiendo!
 
 ---
 
-## Miembros de el equipo 
+## Miembros del equipo 
 
-### El equipo Earth 4723 está conformado por 34 [participantes](/participantes) activos 
-### Nuestro coach: Francisco Javier Lopez-Tiro
-### Nuestro ByDE y administrador: Raúl Santiago Vidal
-### Nuestro capitán: Emiliano Ixmatlahua Valadez
+### El equipo Earth 4723 está conformado por 38 [participantes](/participantes) activos 
+### Nuestros coaches: Rodrigo Marquez, Felipe Gonzalez
+### Nuestro coordinador VIVE y administrador: Raúl Santiago Vidal
+### Nuestra capitana: Shirel Marino Ramirez
 
 ---
 
