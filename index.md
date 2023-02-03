@@ -22,7 +22,7 @@
 ## Team Members
 
 ### The team is made up of 38 active participants
-### 2 Coaches: Rodrigo Marquez, Felipe Gonzalez
+### 2 Coaches: Nadia  Zenteno and Rodrigo Marquez
 ### Our VIVE and team administrator: Raúl Santiago Vidal
 ### Our Captain: Shirel Marino Ramirez
 
